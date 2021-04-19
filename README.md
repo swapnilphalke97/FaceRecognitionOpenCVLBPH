@@ -4,12 +4,12 @@ Basic UML of program is as below,
 
 ![Screenshot (1251)](https://user-images.githubusercontent.com/71014235/115183348-3ae02100-a0f9-11eb-8d5b-273df3180885.png)
 
-# Other than change code for : #
+## Other than change code for : ##
 * Functions to capture images from Laptop or external video Camera. 
 * Use Other OpenCv methods like cv2.face.EigenFaceRecognizer_create(),cv2.face.FisherFaceRecognizer_create()
 * Rather tha using facial Haar Caascade we can use cascade for nose,eyes,mouth etc.(Less efficient)
 
-# Above 2 Files are attached #
+## Above 2 Files are attached ##
 * "FaceReco" file contains normal LBPH classifier which takes input from traningfiles and test to testimg
 * "Facerecoadv" file contains abstract of how videocapture,timer,eigen-fisher algo can be used.
 
@@ -20,6 +20,10 @@ Basic UML of program is as below,
 * https://github.com/neha01/FaceRecognition
 * https://www.superdatascience.com/opencv-face-recognition/
 * https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
+
+## This id how Output Looks ##
+
+![WhatsApp Image 2021-04-18 at 10 47 37 PM (1)](https://user-images.githubusercontent.com/71014235/115184813-39642800-a0fc-11eb-813d-92f575af62cd.jpeg)
 
 
 
